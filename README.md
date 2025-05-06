@@ -1,2 +1,2 @@
-# ml-car-api-render
-deploy de api de cars en render
+# car-price-api
+api para modelo de machine learning de predicción de precio de autos
